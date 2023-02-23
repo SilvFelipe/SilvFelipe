@@ -1,53 +1,29 @@
-### Olá! Sou o Felipe
+<div id="header" align="center">
+  <h1>Bem Vindo(a)! <br> Eu sou o Felipe</h1>
+  
+  <div id="badges">    
+    <a href="https://www.linkedin.com/in/felipe-oliveira-silva-31a37819b/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>      
+    </a>
+    <a href="https://www.instagram.com/felipe_oliv3ira/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>  
+  </div>
+  
+  <div id="techs">
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular Badge"/>
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind Badge"/>
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL Badge"/>
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java Badge"/>
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python Badge"/>
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS Badge"/>
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git Badge"/>
+        <img width="32" height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML Badge"/>
+    </div> 
+</div>
 
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvFelipe)](https://github.com/SilvFelipe/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvFelipe&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvFelipe&count_private=false)
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SilvFelipe&show_icons=false)
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SilvFelipe&show_icons=true&theme=radical)
--->
-<div align="center">
+<div id="cards" align="center">
   <a href="https://github.com/SilvFelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SilvFelipe&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvFelipe&layout=compact&langs_count=7&theme=jolly&hide_border=true"/>
 </div>
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvFelipe&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvFelipe&layout=compact&theme=transparent)](https://github.com/SilvFelipe/github-readme-stats) -->
-
-<!--
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SilvFelipe&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/SilvFelipe/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=SilvFelipe&show_icons=true&theme=radical#gh-light-mode-only)](https://github.com/SilvFelipe/github-readme-stats#gh-light-mode-only)
-
-<picture>
-<source 
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=SilvFelipe&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=SilvFelipe&show_icons=false"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SilvFelipe&show_icons=true" />
-</picture>
--->
-<!--
-**SilvFelipe/SilvFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
