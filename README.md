@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Bem Vindo(a)! <br> Eu sou o Felipe</h1>
+  <h1>Olá! <br> Eu sou o Felipe</h1>
   
   <div id="badges">    
     <a href="https://www.linkedin.com/in/felipe-oliveira-silva-31a37819b/">
